@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour, jules</h1>
+<h1 align="center">Bonjour, c'est jules</h1>
 <h3>Mes Projet :</h3>
 <h4>- Mon projets d'etude </h4>
 
