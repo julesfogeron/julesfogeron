@@ -17,7 +17,7 @@
   [Desktop](https://github.com/julesfogeron/AppJavaToAndroid) : java, javafx   
   [Mobile](https://github.com/julesfogeron/AppAndoid) :  Kotlin (dataBinding)  
 
-<h3 align="left">Mon Linkdin :</h3>
+<h3 align="left">Mon Linkedin :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jules-fogeron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jules-fogeron" height="30" width="40" /></a>
 </p>
